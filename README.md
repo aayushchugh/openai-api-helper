@@ -73,7 +73,7 @@ test();
 
 The `PromptBuilder` class allows users to construct prompts efficiently. It includes options for adding background, context, instructions, and examples combined with user input.
 
-```javascript 
+```javascript
 const { PromptBuilder } = require("openai-api-helper");
 
 const builder = new PromptBuilder()
@@ -158,3 +158,5 @@ If you encounter any issues or have questions, please [open an issue](https://gi
 ## Acknowledgements
 
 This project is not officially associated with OpenAI. It is a community-driven effort to simplify the use of OpenAI's API.
+
+test
